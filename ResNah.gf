@@ -88,7 +88,7 @@ oper
   PassiveDTV = PassiveS => AgrDO => DirPrefix => TAM => Str ;
 
   IVerb : Type = {
-  	active : ActiveIV ;
+    active : ActiveIV ;
     impersonal : ImpersonalIV ;
     causative : ActiveTV ;
     causative_passive : PassiveTV ;
